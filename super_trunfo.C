@@ -1,10 +1,6 @@
-#include <stdio.h>
+    #include <stdio.h>
   
-    //Uso do int para números inteiros
-    //Uso do char para caracteres
-    //Uso do float para números reais
-
-int main (){
+    int main (){
     char nome1[50], nome2[50]; //uso do char para caracteres
     char estado1[3], estado2[3]; //uso do char para caracteres
     int populacao1, populacao2; //uso do int para números inteiros
